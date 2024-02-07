@@ -1,5 +1,5 @@
 # Parallel_Programming
-Parallel_Progamming school projects 1 &amp; 2 . UNIWA
+Parallel_Progamming school projects 1 &amp; 2 . UNIWA 5th Semester
 
 Project 1 : 
 Processor 0 reads a vector sized "n" 
